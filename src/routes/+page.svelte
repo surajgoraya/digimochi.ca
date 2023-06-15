@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+    <title>DigiMochi ⁕ home.</title>
+    <meta name="description" content="DigiMochi, Canadian Based. Digital.">
+</svelte:head>
+<div class="container">
+    <div class="row centred">
+        <h1 class="heading">DigiMochi</h1>
+        <p class="light">all things <b>digital.</b></p>
+    </div>
+</div>
